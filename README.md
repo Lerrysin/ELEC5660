@@ -1,5 +1,5 @@
 # ELEC5660
-Here is a collection of assignments from student.
+Here are the assignments from student.
 
 ELEC5660 is an HKUST postgraduate course held by the UAV Group.
 

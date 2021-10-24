@@ -10,14 +10,14 @@ I = params.I;
 
 % s(1:3) current position 
 % s(4:6) current velocity
-% s(7:10) current attitude quaternion 当前姿态
-% s(11:13) current body angular velocity 当前角速度
+% s(7:10) current attitude quaternion 
+% s(11:13) current body angular velocity 
 
 % s_des(1:3) desire position
-% s_des(4:6) desire velocity   期望速度
-% s_des(7:9) desire acceleration  期望加速度
-% s_des(10) desire yaw 期望yaw姿态
-% s_des(11) desire yaw rate 期望yaw速度
+% s_des(4:6) desire velocity   
+% s_des(7:9) desire acceleration  
+% s_des(10) desire yaw 
+% s_des(11) desire yaw rate 
 
 % RMS
 global count pos_des_last vel_des_last ss_pos ss_vel
